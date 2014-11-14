@@ -1,0 +1,8 @@
+#!/bin/bash
+xsendkeycode 37 1
+xsendkeycode 64 1
+xsendkeycode 40 1
+xsendkeycode 37 0
+xsendkeycode 64 0
+xsendkeycode 40 0
+
